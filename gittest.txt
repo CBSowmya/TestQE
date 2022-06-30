@@ -1,1 +1,2 @@
-Hello World
+
+ Automationmerge and close test
